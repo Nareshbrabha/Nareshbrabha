@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nareshbrabha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning eee
-- 💞️ I’m looking to collaborate on web developing
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me http://www.linkedin.com/in/naresh-brabha-s-00bb11259
 
 <!---
