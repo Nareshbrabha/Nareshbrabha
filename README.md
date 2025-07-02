@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👯 I’m looking to collaborate on **frondend development**
+- 👯 I’m looking to collaborate on **Web development**
 
 - 📫 How to reach me **http://www.linkedin.com/in/naresh-brabha-s-00bb11259**
 
-- 📄 Know about my experiences [about-me-tech.netlify.app](about-me-tech.netlify.app)
+- 📄 Know about my experiences [nareshbrabha-portfolio.web.app](nareshbrabha-portfolio.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
